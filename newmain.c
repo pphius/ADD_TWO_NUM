@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-/* at learned something
+/* 
  * File:   newmain.c
  * Author: phiuspetrus
  *
